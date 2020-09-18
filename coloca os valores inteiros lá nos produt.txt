@@ -1,0 +1,7 @@
+coloca os valores inteiros lá nos produtos da tabela
+pq a gnt testa se tá somando corretamente
+eu ainda nao descobri como soma decimal em php, talvez se o formato do campo lá for float seja melhor
+mas aí deixa tudo inteiro pq as somas já vao funcionar de boas
+
+
+beleza vou testar... valeu
